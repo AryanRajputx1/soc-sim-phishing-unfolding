@@ -1,6 +1,6 @@
 # TryHackMe SOC Simulator — Phishing Unfolding
 
-![Badge: 100% True Positive Rate](https://cdn-images.tryhackme.com/013c16b42db058985e5c7f307df4305d.png)
+
 
 ## Overview
 
